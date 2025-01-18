@@ -1717,3 +1717,204 @@ section {
       background-position: center;
     }
 }
+
+/* Import Google Fonts */
+@import url("//fonts.googleapis.com/css2?family=Megrim:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+/* Services */
+#services{
+ background-image:url("https://images.unsplash.com/photo-1668681919287-7367677cdc4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNTc5fDB8MXxzZWFyY2h8Mnx8YmFja2dyb3VuZCUyMHB1cnBsZSUyMGJsYWNrJTIwYmx1ZXxlbnwwfHx8fDE3MzU1ODU4MDN8MA&ixlib=rb-4.0.3&q=80&w=2560");
+}
+
+/* Footer */
+#footer{
+ background-image:url("https://images.unsplash.com/photo-1668681919287-7367677cdc4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNTc5fDB8MXxzZWFyY2h8Mnx8cHVycGxlJTIwYmx1ZSUyMGJsYWNrJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE3MzQ5MzI4ODF8MA&ixlib=rb-4.0.3&q=80&w=2560");
+ background-position-y:34%;
+}
+
+/* Hero waves */
+#hero .hero-waves{
+ filter: invert(1);
+}
+
+/* Hero */
+#hero{
+ background-image:url("https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNTc5fDB8MXxzZWFyY2h8NDZ8fEFJfGVufDB8fHx8MTczNTU5MTk5OHww&ixlib=rb-4.0.3&q=80&w=2560");
+ background-position-y:20%;
+}
+
+/* Paragraph */
+#services .section-title p{
+ transform:translatex(0px) translatey(0px);
+ color:#3498db;
+}
+
+/* Link */
+.carousel-item a{
+ color:#0b0909 !important;
+}
+
+/* Icon box */
+#root .mt-md-0 .icon-box{
+ background-image:linear-gradient(to right, #3e5151 0%, #decba4 100%);
+}
+
+/* Icon box */
+#root .col-lg-6 .icon-box{
+ background-image:linear-gradient(to right, #56ccf2 0%, #2f80ed 100%) !important;
+}
+
+/* Icon box */
+#root .col-lg-4 .icon-box{
+ background-image:linear-gradient(to right, #4776e6 0%, #8e54e9 100%) !important;
+}
+
+/* Icon box */
+#root .section-header .icon-box{
+ background-image:linear-gradient(to right, #fc5c7d 0%, #6a82fb 100%);
+}
+
+/* Icon box */
+#root .col-md-12 .icon-box{
+ background-image:linear-gradient(to right, #4568dc 0%, #b06ab3 100%);
+}
+
+/* Input */
+#root .icon-box input[type=number]{
+ background-color:#97ebf6;
+}
+
+/* Alert Division */
+.mt-md-0 strong span{
+ background-color:#97ebf6;
+}
+
+/* Span Tag */
+#root .section-header span{
+ color:#fcfcfc;
+}
+
+/* Span Tag */
+#root .icon-box .section-header span{
+ color:#faf9f9;
+}
+
+/* Currency dollar */
+#root .icon .bi-currency-dollar{
+ color:#050404 !important;
+}
+
+/* Person */
+#root .icon .bi-person{
+ color:#020202 !important;
+}
+
+/* Italic Tag */
+.row .col-lg-4 .icon-box .icon .bi{
+ color:#020202 !important;
+}
+
+/* Italic Tag */
+.mt-md-0 .icon i{
+ color:#0a0c0f !important;
+}
+
+/* Cpu */
+#root .mt-5 .bi-cpu{
+ color:#020202 !important;
+}
+
+/* Italic Tag */
+#main #services .container #root .container .row-eq-height .container > .row .mt-5 .icon-box .icon .bi{
+ color:#0b0c0d !important;
+}
+
+/* Italic Tag */
+#root .section-header .mt-5 i{
+ color:#09090b !important;
+}
+
+/* Heading */
+#services .section-title h2{
+ color:#fcfcfc;
+}
+
+/* Animate  animated */
+.carousel-item h2.animate__animated{
+ font-family:'Megrim', display;
+ color:#f9f9fa !important;
+ line-height:1.6em;
+ box-shadow:0px 0px 0px -2px #f9f9fa;
+ text-shadow:rgb(0, 0, 0) 0px 1px 1px, rgb(0, 0, 0) 0px -1px 1px, rgb(0, 0, 0) 1px 0px 1px, rgb(0, 0, 0) -1px 0px 1px !important;
+ white-space:break-spaces;
+ font-style:normal;
+}
+
+/* Button */
+#root .mt-5 .btn-secondary{
+ background-color:#0b72da;
+}
+
+/* Column 12/12 */
+.row .col-lg-4 .icon-box .row .mt-2{
+ transform:translatex(-12px) translatey(18px);
+}
+
+/* Link */
+.row .col-lg-6 .icon-box .title a{
+ color:#fcfcfc;
+}
+
+/* Bold Tag */
+#root a b{
+ color:#f9f9fa;
+}
+
+/* Link */
+.row .col-lg-4 .icon-box .title a{
+ color:#f9f9fa;
+}
+
+/* Link */
+.mt-md-0 .title a{
+ color:#f9f9fa;
+}
+
+/* Link */
+.row-eq-height .container > .row .mt-5 .icon-box .title a{
+ color:#f0f1f3;
+}
+
+/* Title */
+.row-eq-height .container > .row .mt-5 .icon-box .title{
+ color:#f5f3f3;
+}
+
+/* Bold Tag */
+#root .section-header .title b{
+ color:#faf9f9;
+}
+
+/* Button */
+#root .description .btn-primary{
+ color:#120c0c;
+}
+
+/* Heading */
+#footer h3{
+ color:#3498db;
+}
+
+/* Icon box */
+#main #services .container #root .container .row-eq-height .container > .row .mt-5 .icon-box{
+ background-image:linear-gradient(to right, #4776e6 0%, #8e54e9 100%) !important;
+}
+
+@media (min-width:1200px){
+
+ /* Animate  animated */
+ .carousel-item h2.animate__animated{
+  font-size:65px !important;
+ }
+ 
+}
